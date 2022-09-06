@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mann180
-- 👀 I’m interested in learning python app development 
+- 👀 I’m interested in learning python , app development 
 - 🌱 I’m currently learning python
 - 📫 How to reach me ...
 
